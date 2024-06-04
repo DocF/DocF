@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DocF.
-- 👀 I’m interested in Applications of AI to Aerospace.
+- 👀 I’m interested in AI for Aerospace.
 - 🌱 I’m currently learning Machine Learning，Deep Learning，and Computer Vision.
 - 💞️ I’m looking to collaborate on Research or Engineering.
 - 📫 Pls contact me at fqy2017@gmail.com.
